@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I'm Salma El Fekih, a Computer Science student at the Higher Institute of Computer Science ISI. <br>I am passionate about Programming and Cybersecurity. Additionally, I enjoy conducting digital investigations and participating in Capture the Flag competitions.
 
