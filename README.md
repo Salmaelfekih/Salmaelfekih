@@ -10,11 +10,5 @@ I'm Salma El Fekih, a software engineering student at the Higher Institute of Co
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-80B3FF.svg?style=for-the-badge&logo=windows&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username=Salmaelfekih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Salmaelfekih&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salmaelfekih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Salmaelfekih&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
