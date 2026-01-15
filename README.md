@@ -2,7 +2,7 @@
 I'm Salma El Fekih, a software engineering student at the Higher Institute of Computer Science ISI.<br>I am passionate about cybersecurity, programming, and cloud computing. <br>Additionally, I enjoy conducting digital investigations and participating in Capture the Flag competitions.
 
 
-## 🌐 Socials :
+## 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salma-el-fekih/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmaelfekihpro@gmail.com) 
 
 # 💻 Tech Stack :
